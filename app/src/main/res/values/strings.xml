@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">RevolutDemo</string>
+
+    <!--Currency Names-->
+    <string name="aud_string">Australian Dollar</string>
+    <string name="bgn_string">Bulgarian Lev</string>
+    <string name="brl_string">Brazilian Real</string>
+    <string name="cad_string">Canadian Dollar</string>
+    <string name="chf_string">Swiss Franc</string>
+    <string name="cny_string">Chinese Yuan</string>
+    <string name="czk_string">Czech Koruna</string>
+    <string name="dkk_string">Danish Krone</string>
+    <string name="eur_string">Euro</string>
+    <string name="gbp_string">British Pound</string>
+    <string name="hkd_string">Hong Kong Dollar</string>
+    <string name="hrk_string">Croatian Kuna</string>
+    <string name="huf_string">Hungarian Forint</string>
+    <string name="idr_string">Indonesian Rupiah</string>
+    <string name="ils_string">Israeli New Shekel</string>
+    <string name="inr_string">Indian Rupee</string>
+    <string name="isk_string">Icelandic Krona</string>
+    <string name="jpy_string">Japanese Yen</string>
+    <string name="krw_string">South Korean Won</string>
+    <string name="mxn_string">Mexican Peso</string>
+    <string name="myr_string">Malaysian Ringgit</string>
+    <string name="nok_string">Norwegian Krone</string>
+    <string name="nzd_string">New Zealand Dollar</string>
+    <string name="php_string">Philippine Peso</string>
+    <string name="pln_string">Polish Zloty</string>
+    <string name="ron_string">Romanian New Leu</string>
+    <string name="rub_string">Russian Ruble</string>
+    <string name="sek_string">Swedish Krona</string>
+    <string name="sgd_string">Singapore Dollar</string>
+    <string name="thb_string">Thai Baht</string>
+    <string name="try_string">Turkish Lira</string>
+    <string name="usd_string">US Dollar</string>
+    <string name="zar_string">South African Rand</string>
+    <string name="unknown_string">Unknown</string>
+
+    <string name="hint">0</string>
+    <string name="retry">Retry</string>
+    <string name="default_value">100</string>
+
+</resources>
